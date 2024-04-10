@@ -72,9 +72,9 @@ const searchState = async (searchText) => {
 };
 
 search.addEventListener("input", (e) => {
-  if (e.target.value == "") {
+  if (e.target.value.trim() == "") {
     document.getElementById("output").innerHTML="";
   } else {
-    searchState(e.target.value);
+    searchState(e.target.value.trim());
   }
 });
