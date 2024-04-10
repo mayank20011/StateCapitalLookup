@@ -1,0 +1,172 @@
+[
+  { "name": "Andhra Pradesh",
+    "capital": "Amaravati",
+    "abbr": "AP",
+    "lat" : "14.7504° N",
+    "long" : "78.5700° E"
+  },
+  { "name": "Arunachal Pradesh",
+    "capital": "Itanagar",
+    "abbr": "AR",
+    "lat" : "27.1004° N",
+    "long" : "93.6166° E"
+  },
+  { "name": "Assam",
+    "capital": "Dispur",
+    "abbr": "AS",
+    "lat" : "26.7499° N",
+    "long" : "94.2167° E"
+  },
+  { "name": "Bihar",
+    "capital": "Patna",
+    "abbr": "BR",
+    "lat" : "25.7854° N",
+    "long" : "87.4799° E"
+  },
+  { "name": "Chhattisgarh",
+    "capital": "Raipur",
+    "abbr": "CG",
+    "lat" : "22.0904° N",
+    "long" : "82.1599° E"
+  },
+  { "name": "Goa",
+    "capital": "Panaji",
+    "abbr": "GA",
+    "lat" : "15.4919° N",
+    "long" : "73.8180° E"
+  },
+  { "name": "Gujarat",
+    "capital": "Gandhinagar",
+    "abbr": "GJ",
+    "lat" : " 23.2156° N",
+    "long" : "72.6369° E"
+  },
+  { "name": "Haryana",
+    "capital": "Chandigarh",
+    "abbr": "HR",
+    "lat" : " 30.7398° N",
+    "long" : "76.7804° E"
+  },
+  { "name": "Himachal Pradesh",
+    "capital": "Shimla (Summer) / Dharamshala (Winter)",
+    "abbr": "HP",
+    "lat" : "31.1000° N",
+    "long" : "77.1666° E"
+  },
+  { "name": "Jharkhand",
+    "capital": "Ranchi",
+    "abbr": "JK",
+    "lat" : "23.8004° N",
+    "long" : " 86.4199° E"
+  },
+  { "name": "Karnataka",
+    "capital": "Bangalore (Summer) / Belgaum (Winter)",
+    "abbr": "KA",
+    "lat" : "12.5704° N",
+    "long" : "76.9199° E"
+  },
+  { "name": "Kerala",
+    "capital": "Thiruvananthapuram",
+    "abbr": "KL",
+    "lat" : "8.9003° N",
+    "long" : "76.5699° E" 
+  },
+  { "name": "Madhya Pradesh",
+    "capital": "Bhopal",
+    "abbr": "MP",
+    "lat" : "",
+    "long" : ""
+  },
+  { "name": "Maharashtra",
+    "capital": "Mumbai (Summer) / Nagpur (Winter)",
+    "abbr": "MH",
+    "lat" : "23.2599° N",
+    "long" : "77.4126° E"
+  },
+  { "name": "Manipur",
+    "capital": "Imphal",
+    "abbr": "MN",
+    "lat" : "24.7999° N",
+    "long" : "93.9500° E"
+  },
+  { "name": "Meghalaya",
+    "capital": "Shillong",
+    "abbr": "ML",
+    "lat" : "25.5705° N",
+    "long" : "91.8800° E" 
+  },
+  { "name": "Mizoram",
+    "capital": "Aizawl",
+    "abbr": "MZ",
+    "lat" : " 23.7104° N",
+    "long" : "92.7200° E"
+  },
+  { "name": "Nagaland",
+    "capital": "Kohima",
+    "abbr": "NL",
+    "lat" : "25.6669° N",
+    "long" : "94.1166° E" 
+  },
+  { "name": "Odisha",
+    "capital": "Bhubaneswar",
+    "abbr": "OR",
+    "lat" : "20.2961° N",
+    "long" : "85.8245° E"
+  },
+  { "name": "Punjab",
+    "capital": "Chandigarh",
+    "abbr": "PB",
+    "lat" : "30.7333° N",
+    "long" : "76.7794° E"
+  },
+  { "name": "Rajasthan",
+    "capital": "Jaipur",
+    "abbr": "RJ",
+    "lat" : "26.9124° N",
+    "long" : "75.7873° E" 
+  },
+  { "name": "Sikkim",
+    "capital": "Gangtok",
+    "abbr": "SK",
+    "lat" : "27.3314° N",
+    "long" : "88.6138° E"
+  },
+  { "name": "Tamil Nadu",
+    "capital": "Chennai",
+    "abbr": "TN",
+    "lat" : "13.0827° N",
+    "long" : "80.2707° E" 
+  },
+  { "name": "Telangana",
+    "capital": "Hyderabad",
+    "abbr": "TG",
+    "lat" : "17.3850° N",
+    "long" : "78.4867° E"
+  },
+  { "name": "Tripura",
+    "capital": "Agartala",
+    "abbr": "TR",
+    "lat" : "23.8315° N",
+    "long" : "91.2868° E" 
+  },
+  { "name": "Uttar Pradesh",
+    "capital": " Lucknow",
+    "abbr": "UP",
+    "lat" : "26.8467° N",
+    "long" : "80.9462° E" 
+  },
+  { "name": "Uttarakhand",
+    "capital": "Dehradun (Winter) / Gairsain (Summer)",
+    "abbr": "UK",
+    "lat" : " 30.3165° N",
+    "long" : "78.0322° E"
+  },
+  { "name": "West Bengal",
+    "capital": "Kolkata",
+    "abbr": "WB",
+    "lat" : " 22.5726° N",
+    "long" : "88.3639° E"
+  }
+  
+  
+]
